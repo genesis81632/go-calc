@@ -7,9 +7,8 @@ go-calc is a simple 2 operand calculator over http written in go-lang. Please fo
 1. Build a docker image for the application and publish it
 1. Deploy the application in a kubernetes cluster - minikube will be fine. Deployment technique should be extendible to multiple environments.
 1. Bonus: Build the missing functionality
-1. Anything extra is always welcome
+1. Anything extra is always welcome (If you could use Helm)
 
-Note: The above tasks should ideally not take you more than a couple of hours to complete.
 
 ## How to
 
